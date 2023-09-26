@@ -1,0 +1,9 @@
+.main {
+    width: fit-content;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.main svg {
+    font-size: 20px;
+}
